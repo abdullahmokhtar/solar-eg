@@ -1,0 +1,15 @@
+.about .title::after{
+    content: "من نحن";
+    }
+
+.services .title::after{
+        content: "حول العالم";
+    }
+
+    .gallery-2 .title::after{
+        content: "القي نظره";
+    }
+
+    .contact .title::after{
+        content: "ابقى على تواصل";
+    }
