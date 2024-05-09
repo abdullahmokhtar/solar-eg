@@ -13,3 +13,9 @@
     .contact .title::after{
         content: "ابقى على تواصل";
     }
+    .serv-info .title::after{
+        content: "كما نقدم";
+    }
+    .gallery .title::after{
+        content: "القي نظره";
+    }
