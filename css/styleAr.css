@@ -19,3 +19,14 @@
     .gallery .title::after{
         content: "القي نظره";
     }
+
+    .contact .right form .name{
+        margin-right: 0;
+    }
+    .contact .right form .email{
+        margin-left: 0;
+        margin-right: 10px;
+    }
+    .text-start{
+text-align: right !important;
+    }
