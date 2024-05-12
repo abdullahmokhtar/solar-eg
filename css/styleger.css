@@ -1,3 +1,21 @@
 .about .title::after{
 content: "Wer wir sind";
 }
+
+.services .title::after{
+    content: "auf der ganzen Welt";
+}
+
+.gallery-2 .title::after{
+    content: "Schauen wir uns das an";
+}
+
+.contact .title::after{
+    content: "in Kontakt kommen";
+}
+.serv-info .title::after{
+    content: "Wie wir bieten";
+}
+.gallery .title::after{
+    content: "Schauen wir uns das an";
+}
